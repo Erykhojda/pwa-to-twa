@@ -1,0 +1,8 @@
+com/przykladowaaplikacja/Application.java
+ com.przykladowaaplikacja.Application
+com/przykladowaaplikacja/LauncherActivity.java
+ com.przykladowaaplikacja.LauncherActivity
+com/przykladowaaplikacja/DelegationService.java
+ com.przykladowaaplikacja.DelegationService
+com/przykladowaaplikacja/BuildConfig.java
+ com.przykladowaaplikacja.BuildConfig
