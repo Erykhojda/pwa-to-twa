@@ -24,7 +24,7 @@
     <!-- Value from default config. -->
     <string name="hostName" translatable="false">pwa-to-twa.netlify.app</string>
     <!-- Value from default config. -->
-    <string name="launchUrl" translatable="false">https://pwa-to-twa.netlify.apphttps://pwa-to-twa.netlify.app/</string>
+    <string name="launchUrl" translatable="false">https://pwa-to-twa.netlify.app/</string>
     <!-- Value from default config. -->
     <string name="launcherName" translatable="false">ttw</string>
     <!-- Value from default config. -->
